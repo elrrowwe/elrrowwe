@@ -9,6 +9,10 @@ jamming | deep learning, data science <br>open to collaborate on scientific rese
 ![](https://github-readme-streak-stats.herokuapp.com/?user=elrrowwe&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=elrrowwe&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+# Leetcode stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/elrrowwe?theme=dark&font=NTR)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=elrrowwe&theme=nord&no-frame=false&no-bg=true&margin-w=4)
 
