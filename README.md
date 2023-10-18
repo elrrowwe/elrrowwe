@@ -1,5 +1,7 @@
 # 💫 About Me:
-jamming | deep learning, data science <br>open to collaborate on scientific research 
+jamming | deep learning, data science <br>open to collaborate on projects 
+
+actively researching various topics in ML, mainly focused on implementing solutions and applying them to real-life problems. the tools I use the most: python (pytorch, pandas, seaborn, sklearn), julia, R(visualization), excel(visualization, simple exploratory analysis)
 
 
 # 💻 Tech Stack:
