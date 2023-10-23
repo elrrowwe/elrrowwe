@@ -11,6 +11,10 @@ actively researching various topics in ML, mainly focused on implementing soluti
 ![](https://github-readme-streak-stats.herokuapp.com/?user=elrrowwe&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=elrrowwe&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+# Wakatime stats
+
+[![wakatime](https://wakatime.com/badge/user/d81e4851-44bf-4036-987c-b880780f5c64.svg)](https://wakatime.com/@d81e4851-44bf-4036-987c-b880780f5c64)
+
 # Leetcode stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/elrrowwe?theme=dark&font=NTR)
