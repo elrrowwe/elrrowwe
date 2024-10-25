@@ -22,4 +22,7 @@ actively researching various topics in ML, mainly focused on implementing soluti
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=elrrowwe&theme=nord&no-frame=false&no-bg=true&margin-w=4)
 
+## Collabothon 2024 Winner's badge
+[![My Badge](https://odznakaplus.ibe.edu.pl/images/assertion/3139a16f18f463e3cc52442f905637a4e05492e015abcac9defd9b5050a02ae5.png)](https://odznakaplus.ibe.edu.pl/api/open-badges/assertion/a39b32065385b70a76d200a4dc8a9f31fddaac3e078c5c80e626b2845cacca46)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
